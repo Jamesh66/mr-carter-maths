@@ -1,5 +1,6 @@
 # mr-carter-maths
 Mr Carter Maths
+
 A family member asked me to update an existing landing page for their maths educational resource website. 
 
 The brief included keeping the design in line with other products within their brand and keeping the original colour scheme to make sure the users weren’t confused by this change in style. 
